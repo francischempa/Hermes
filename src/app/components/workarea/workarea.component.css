@@ -1,0 +1,11 @@
+*{
+    font-family: "Noto Mono";
+}
+.search-list li{
+    cursor: pointer;
+}
+
+.sms-box{
+    font-family: Times
+;
+}
