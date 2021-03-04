@@ -1,11 +1,15 @@
-*{
+p, a, li, button{
     font-family: "Noto Mono";
 }
-.search-list li{
+.search-list li span, .search-list li i, .search-list li input, i, button{
     cursor: pointer;
 }
 
 .sms-box{
     font-family: Times
 ;
+}
+
+.opacity-3{
+    opacity: .3;
 }
