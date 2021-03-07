@@ -7,6 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class WorkareaComponent implements OnInit {
 
+  hideDashboard=true;
+  hideSendSMS=true;
+  hideNoHistory=false;
+  hideGroups=true
+
   constructor() { }
 
   ngOnInit(): void {
